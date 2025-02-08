@@ -1,0 +1,39 @@
+body {
+    background-color: #fff;
+}
+#wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 50px;
+}
+
+.my-picture {
+    width: 270px;
+    height: 250px;
+    border-radius: 150px;
+    margin-right: 30px;
+}
+h1 {
+    color: #333;
+}
+h3 {
+    font-style: italic;
+}
+.Aboutme {
+    width: 355px;
+    color: #808080;
+    font-style: italic;
+}
+.social {
+    width: 30px;
+    margin-right: 25px;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
